@@ -2,6 +2,6 @@
 ### Homework1
 
 [SelectionSorting](./Homework/SelectionSorting.pde)
-![Alt homework11](./Homework/homework1.png)
+[![결과 이미지 보기](./Homework/homework1.png)](./Homework/SelectionSorting.pde)
 
 
