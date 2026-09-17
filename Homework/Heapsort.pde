@@ -48,7 +48,6 @@ void heapify(int n, int i) {
     largest = left;
   }
 
-  // 오른쪽 자식이 현재 가장 큰 값보다 크다면
   if (right < n && arr[right] > arr[largest]) {
     largest = right;
   }
