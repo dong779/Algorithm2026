@@ -15,3 +15,6 @@
 
 [Quicksort](./Homework/Quicksort.pde)
 [![결과 이미지 보기](./Homework/Quicksort.png)](./Homework/Quicksort.pde)
+
+[Heapsort](./Homework/Heapsort.pde)
+[![결과 이미지 보기](./Homework/Heapsort.png)](./Homework/Heapsort.pde)
