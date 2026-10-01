@@ -21,4 +21,4 @@
 
 ### Homework2
 
-[SortAnimation](./Homework/SortAnimation1)
+[SortAnimation(Selection/Bubble/Insertion)](./Homework/SortAnimation1.gif)
