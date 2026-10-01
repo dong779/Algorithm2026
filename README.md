@@ -22,4 +22,6 @@
 ### Homework2
 
 [SortAnimation(Selection/Bubble/Insertion)](./Homework/SortAnimation1.gif)
+[![결과 이미지 보기](./Homework/SortAnimation1.png)](./Homework/SortAnimation1.gif)
+
 [SortAnimation(Merge/Quick/Heap)](./Homework/SortAnimation2.gif)
