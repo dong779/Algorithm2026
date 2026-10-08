@@ -23,8 +23,8 @@
 
 [SortAnimation(Selection/Bubble/Insertion)](./Homework/SortAnimation1.gif)
 [![결과 이미지 보기](./Homework/SortAnimation1.png)](./Homework/SortAnimation1.gif)
-[SortAnimation(Selection/Bubble/Insertion)](./Homework/SortAnimation1.pde)
+[SortAnimation_code(Selection/Bubble/Insertion)](./Homework/SortAnimation1.pde)
 
 [SortAnimation(Merge/Quick/Heap)](./Homework/SortAnimation2.gif)
 [![결과 이미지 보기](./Homework/SortAnimation2.png)](./Homework/SortAnimation2.gif)
-[SortAnimation(Merge/Quick/Heap)](./Homework/SortAnimation2.pde)
+[SortAnimation_code(Merge/Quick/Heap)](./Homework/SortAnimation2.pde)
