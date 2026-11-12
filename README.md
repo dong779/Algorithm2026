@@ -33,6 +33,6 @@
 [BinarySearchTree](./Homework/BinarySearchTree.pde)
 
 ### Homework4
-[infix to postfix calculator using stack](./Homework/BinarySearchTree.gif)
-[![결과 이미지 보기(Homework/infix to postfix calculator using stack.png)](./Homework/BinarySearchTree.gif)]
-[infix to postfix calculator using stack](./Homework/BinarySearchTree.pde)
+[infix to postfix calculator using stack](Homework/infix_to_postfix_calculator_using_stack.pde)
+[![결과 이미지 보기(Homework/infix to postfix calculator using stack.png)](Homework/infix_to_postfix_calculator_using_stack.pde)]
+[infix to postfix calculator using stack](Homework/infix_to_postfix_calculator_using_stack.pde)
