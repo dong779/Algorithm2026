@@ -37,8 +37,8 @@
 [![결과 이미지 보기](./Homework/infix_to_postfix_calculator_using_stack.png)](./Homework/infix_to_postfix_calculator_using_stack.pde)
 
 ### Homework5
-[Pebble Placement Problem]
-[![결과 이미지 보기]
+[Pebble Placement Problem](Homework/Pebble_Placement_Problem.pde)
+[![결과 이미지 보기](Homework/Pebble_Placement_Problem.png)](Homework/Pebble_Placement_Problem.pde)
 
 ### Homework6
 [BFS and DFS for a graph](Homework/BFS_and_DFS_graph.pde)
