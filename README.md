@@ -29,7 +29,7 @@
 
 ### Homework3
 [BinarySearchTree](./Homework/BinarySearchTree.gif)
-[![결과 이미지 보기(./Homework/BinarySearchTree.png)](./Homework/BinarySearchTree.gif)]
+[![결과 이미지 보기](./Homework/BinarySearchTree.png)](./Homework/BinarySearchTree.gif)]
 [BinarySearchTree](./Homework/BinarySearchTree.pde)
 
 ### Homework4
