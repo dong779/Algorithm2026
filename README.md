@@ -1,6 +1,5 @@
 # Algorithm2026
 ### Homework1
-
 [SelectionSorting](./Homework/SelectionSorting.pde)
 [![결과 이미지 보기](./Homework/Selection.png)](./Homework/SelectionSorting.pde)
 
@@ -20,7 +19,6 @@
 [![결과 이미지 보기](./Homework/Heapsort.png)](./Homework/Heapsort.pde)
 
 ### Homework2
-
 [SortAnimation(Selection/Bubble/Insertion)](./Homework/SortAnimation1.gif)
 [![결과 이미지 보기](./Homework/SortAnimation1.png)](./Homework/SortAnimation1.gif)
 [SortAnimation_code(Selection/Bubble/Insertion)](./Homework/SortAnimation1.pde)
@@ -34,3 +32,7 @@
 [![결과 이미지 보기(./Homework/BinarySearchTree.png)](./Homework/BinarySearchTree.gif)]
 [BinarySearchTree](./Homework/BinarySearchTree.pde)
 
+### Homework4
+[infix to postfix calculator using stack](./Homework/BinarySearchTree.gif)
+[![결과 이미지 보기(./Homework/BinarySearchTree.png)](./Homework/BinarySearchTree.gif)]
+[infix to postfix calculator using stack](./Homework/BinarySearchTree.pde)
