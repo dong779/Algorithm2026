@@ -28,8 +28,8 @@
 [SortAnimation_code(Merge/Quick/Heap)](./Homework/SortAnimation2.pde)
 
 ### Homework3
-[BinarySearchTree](./Homework/BinarySearchTree.gif)
-[![결과 이미지 보기](./Homework/BinarySearchTree.png)](./Homework/BinarySearchTree.gif)
+[BinarySearchTree](./Homework/BinarySearchTree.pde)
+[![결과 이미지 보기](./Homework/BinarySearchTree.gif)](./Homework/BinarySearchTree.pde)
 
 
 ### Homework4
